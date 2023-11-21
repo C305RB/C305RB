@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hello, user 👋
 
 <!--
 **C305RB/C305RB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, i am Rustam Bekmuratov! I am studing Far East Federal University to
 
 Here are some ideas to get you started:
 
